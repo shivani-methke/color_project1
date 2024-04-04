@@ -1,0 +1,32 @@
+.l_btn{
+   width: 280px;
+   height: 350px;
+   border-radius: 5%;
+   border: transparent;
+   font-size: 40px;
+  
+   
+   
+}
+
+
+.btn_col{
+   /* padding-left: 100px; */
+   cursor: pointer;
+   border: transparent;
+   width: 100px;
+   height: 50px;
+   margin: 40px;
+   font-size: 30px;
+   /* background-color: white; */
+
+}
+.l_box{
+
+   padding-top: 300px;
+   padding-left: 500px;
+}
+.r_box{
+   padding-top: 350px;
+   padding-left: 30px;
+}
